@@ -1,0 +1,34 @@
+Teams Information :-
+-------------------------------------------------------------
+Name:Moroco
+Code:MAR
+Wins:2
+Draws:1
+Loses:0
+Goal differences:3
+Points:7
+
+Name:Belgium
+Code:BEL
+Wins:1
+Draws:2
+Loses:1
+Goal differences:4
+Points:5
+
+Name:Croatia
+Code:CRO
+Wins:1
+Draws:2
+Loses:0
+Goal differences:3
+Points:5
+
+Name:JORDAN
+Code:JOR
+Wins:0
+Draws:0
+Loses:3
+Goal differences:1
+Points:4
+-------------------------------------------------------------
